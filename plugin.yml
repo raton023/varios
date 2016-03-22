@@ -1,0 +1,6 @@
+name: Cool
+main: com.darkania.cool.Main
+version: 1
+commands:
+  ping:
+  spectate:
